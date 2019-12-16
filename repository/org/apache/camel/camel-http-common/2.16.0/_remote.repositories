@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 01 22:37:30 BRT 2019
+camel-http-common-2.16.0.jar>central=
+camel-http-common-2.16.0-sources.jar>central=
+camel-http-common-2.16.0.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 01 21:43:23 BRT 2019
+camel-core-2.16.1-sources.jar>central=
+camel-core-2.16.1.jar>central=
+camel-core-2.16.1.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 08 15:48:56 BRST 2019
+flyway-core-6.0.8.jar>central=
+flyway-core-6.0.8.pom>central=
+flyway-core-6.0.8-sources.jar>central=
